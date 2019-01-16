@@ -88,7 +88,9 @@ input~label {
     font-size: 0.7rem;
 }
 
-
-/* .second_row {
-    border: solid 1px yellow;
-    } */
+.last_item {
+    display: inline-block;
+    margin: 0 0 0 3%;
+    font-size: 1rem;
+    color: #000;
+}
